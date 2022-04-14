@@ -37,4 +37,13 @@ public class UserController {
         return userService.list();
     }
 
+    /**
+     * @Description: 获取用户列表
+     */
+    @GetMapping("create-list-user")
+    public Object createAndListUser() {
+        userService.saveOne(new User("小小", "女", 3));
+        return userService.list();
+    }
+
 }

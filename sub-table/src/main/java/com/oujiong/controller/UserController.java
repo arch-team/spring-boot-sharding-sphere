@@ -33,11 +33,11 @@ public class UserController {
      */
     @PostConstruct
     private void getData() {
-        userList.add(new User(1L,"小小", "女", 3));
-        userList.add(new User(2L,"爸爸", "男", 30));
-        userList.add(new User(3L,"妈妈", "女", 28));
-        userList.add(new User(4L,"爷爷", "男", 64));
-        userList.add(new User(5L,"奶奶", "女", 62));
+        userList.add(new User(6L,"小小", "女", 3));
+        userList.add(new User(7L,"爸爸", "男", 30));
+        userList.add(new User(8L,"妈妈", "女", 28));
+        userList.add(new User(9L,"爷爷", "男", 64));
+        userList.add(new User(10L,"奶奶", "女", 62));
     }
     /**
      * @Description: 批量保存用户

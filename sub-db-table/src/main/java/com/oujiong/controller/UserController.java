@@ -54,6 +54,4 @@ public class UserController {
     public Object listUser() {
         return userService.list();
     }
-
-
 }

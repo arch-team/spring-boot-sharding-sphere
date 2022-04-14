@@ -19,7 +19,7 @@ SpringBoot2.0.6 + shardingsphere4.0.0-RC1 + Maven3.5.4  + MySQL + lombok(插件)
 
 **如图**
 
-![](https://img2018.cnblogs.com/blog/1090617/201910/1090617-20191011190937605-1357123570.png)
+###### ![](https://img2018.cnblogs.com/blog/1090617/201910/1090617-20191011190937605-1357123570.png)
 
 具体的创建表SQL也会放到GitHub项目里
 
